@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+
+/FRONTEND/guarda-contactos-front/.gitignore
+/FRONTEND/guarda-contactos-front/vue.config.js
+/FRONTEND/guarda-contactos-front/node-modules
+/BACKEND/node_modules
